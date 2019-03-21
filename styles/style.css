@@ -1,0 +1,156 @@
+
+body{
+	background-image:url(../images/1.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 800px;
+	background-color: grey;
+}
+
+.Simple-Form{
+	text-align: center;
+	margin: 100px 400px;
+}
+
+.Contact-Form{
+	text-align: left;
+		margin-left: 50px;
+	margin-right: 100px;
+	margin-top: 25px;
+	margin-bottom: 100px;
+	opacity:0.8;
+}
+
+#contact-right{
+background-image:url(../images/15.jpg);
+
+}
+	#contact-btn{
+		width: 100px;
+		padding: 10px;
+		border-radius: 5px;
+		outline: 0px;
+		background-color:#426679;
+		box-shadow: 0 0 20px rgba(72,98,85, 0.6);
+		box-sizing: border-box;
+	}
+
+#Registeration{
+	width: 100%;
+	background-color:#051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#ph{
+	width: 70px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#phone{
+	width: 180px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#rd{
+	width: 20px;
+	padding: 0px;
+	border-radius: 5px;
+	outline: 0px;
+}
+#but{
+	width:200px;
+}
+#butt{
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+	background-color:#426679;
+}
+
+ li a{
+color:white;
+}
+
+.personal{
+	background-image:url(1.jpeg);
+	background-repeat:no-repeat;
+	background-size:50% 800px;
+	border-right: 1px dashed #333;
+
+}
+
+.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{
+	display:block;
+	float:none;
+	width:auto;
+	 margin:0 0 30px 0;
+	 padding:0;
+	}
+
+.nav-item{
+text-align: center;
+color: aliceblue;
+
+}
+	#searchimg{
+	color:white;
+	 font-size: 8px;
+	 width: 50px;
+	 padding: 10px;
+	 border-radius: 5px;
+	 outline: 0px;
+}
+
+#searchname{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+
+.searchform{
+text-align:center;
+padding: 0px 200px 0px 600px;
+}
+
+.book-Form{
+	text-align: right;
+		margin-left: 100px;
+	margin-right: 200px;
+	margin-top: 5px;
+	margin-bottom: 100px;
+padding-left: 100px;
+}
+
+#book{
+	background-image:url(../images/1.jpeg);
+}
+#me{
+	padding:0px;
+	padding-top:5px;
+	height:200px;
+	width:540px;
+}
+
+#myname{
+text-align:center;
+}
+
+#quote{
+height: 100px;
+}
+
+.w3-content{
+	padding-top:0px;
+padding-left:350px;
+}
+
+
